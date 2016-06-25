@@ -1,1 +1,1 @@
-# 8ch-recommend
+# 8ch-recommendThis script generates the recommended board list for display in the top bar of 8chan.# UsageDownload the repo, then you can run it in ghci, compile using stack or cabal, or run it using `runhaskell`. Up to you.
